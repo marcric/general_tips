@@ -2,4 +2,4 @@ h1. This is a Javascript Tip.
 
 h2. On how to change an iframe size from another page
 
-It starts like a chalenge.
+It starts as a challenge.
